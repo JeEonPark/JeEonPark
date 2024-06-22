@@ -1,3 +1,5 @@
-### Hi there 👋
+### iOS Developer
 
-Welcome to my Github Page!
+Learner from Apple Developer Academy @ POSTECH
+
+Korean, English, Japanese, Chinese(beginner)
