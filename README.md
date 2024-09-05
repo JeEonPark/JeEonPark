@@ -1,5 +1,5 @@
 ### Hi, I'm DevJonny 👋
-📱 iOS Developer
+📱 Mobile Developer
 
 Learner from 🍎 Apple Developer Academy @ POSTECH
 
